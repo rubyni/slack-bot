@@ -21,7 +21,7 @@ Variables de entorno
 
 Este repositorio contiene un archivo Procfile para poder hacer deploy en heroku.
 
-Para definir SLACK_BOT_KEY puedes obtener una llave aquí: https://[tu-cuenta].slack.com/services/new/bot
+Para definir SLACK_BOT_KEY puedes obtener una llave aquí: [https://[tu-cuenta].slack.com/services/new/lita](https://[tu-cuenta].slack.com/services/new/lita)
 
 En heroku para definir REDISTOGO_URL puedes ejecutar este comando:
 
