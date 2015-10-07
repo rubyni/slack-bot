@@ -1,0 +1,15 @@
+source 'https://rubygems.org'
+ruby '2.2.2'
+
+gem 'lita'
+gem 'lita-slack'
+gem 'lita-google-images'
+gem 'lita-karma'
+gem 'lita-chuck_norris'
+gem 'lita-logger'
+gem 'lita-whois'
+gem 'lita-youtube'
+gem 'lita-tuc'
+
+gem 'dotenv'
+gem 'puma'
