@@ -3,7 +3,7 @@ Slack Bot
 
 Robot para Slack con algunas gemas útiles para gente de Nicaragua
 
-Esta repositorio utiliza [Lita](https://www.lita.io/)
+Este repositorio utiliza [Lita](https://www.lita.io/)
 
 # Requerimientos
 
